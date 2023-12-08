@@ -21,7 +21,7 @@ dotnet run
 
 **oriente o usuário a testar o software
 **Consumir os endpoints**
-Sugestão de ordem para testar a aplicação base:
+Sugestão de para testar a aplicação base:
 
 1) Criar, editar e excluir pacientes
 2) Criar, editar e excluir médicos
